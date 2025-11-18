@@ -1,0 +1,32 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+ScaledBorderAndShadow: Yes
+PlayResX: 960
+PlayResY: 540
+LayoutResX: 960
+LayoutResY: 540
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Yu Gothic,46,&H00FFFFFF,&H000000FF,&H00000000,&H7F000000,1,0,0,0,100,100,4,0,1,2,2,1,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:30:02.00,0:30:04.00,Default,,0000,0000,0000,,{\pos(212,497)\c&H0000FFFF}《{\fscx50}イアナ：{\fscx100}今日は{\fscx50}　コノハ{\fscx100}お姉様と{\fscx50}➡️
+Dialogue: 0,0:30:04.00,0:30:06.00,Default,,0000,0000,0000,,{\pos(272,437)\c&H0000FFFF\fscx50}ローズ{\fscx100}王国の下町に
+Dialogue: 0,0:30:04.00,0:30:06.00,Default,,0000,0000,0000,,{\pos(292,497)\c&H0000FFFF}繰り出していたのだ》
+Dialogue: 0,0:30:06.00,0:30:09.51,Default,,0000,0000,0000,,{\pos(172,437)\fscx50}（コノハ）イアナ。
+Dialogue: 0,0:30:06.00,0:30:09.51,Default,,0000,0000,0000,,{\pos(212,497)}何か楽しそうなものは{\fscx50}　{\fscx100}あった？
+Dialogue: 0,0:30:09.51,0:30:12.01,Default,,0000,0000,0000,,{\pos(172,437)}せっかく{\fscx50}　{\fscx100}お忍びで
+Dialogue: 0,0:30:09.51,0:30:12.01,Default,,0000,0000,0000,,{\pos(192,497)}下町に来たんだから{\fscx50}➡️
+Dialogue: 0,0:30:12.01,0:30:16.35,Default,,0000,0000,0000,,{\pos(172,407)}見たいものがあったら言ってね{\fscx50}。
+Dialogue: 0,0:30:12.01,0:30:16.35,Default,,0000,0000,0000,,{\pos(512,497)\c&H0000FFFF}は～い{\fscx50}　{\fscx100}お姉様{\fscx50}。
+Dialogue: 0,0:30:16.35,0:30:18.35,Default,,0000,0000,0000,,{\pos(492,497)\c&H0000FFFF}《{\fscx50}コノハ　{\fscx100}楽しそう{\fscx50}。
+Dialogue: 0,0:30:18.35,0:30:21.35,Default,,0000,0000,0000,,{\pos(372,437)\c&H0000FFFF}そっか{\fscx50}　{\fscx100}今日は
+Dialogue: 0,0:30:18.35,0:30:21.35,Default,,0000,0000,0000,,{\pos(392,497)\c&H0000FFFF}何かのお祭りなんだ》
+Dialogue: 0,0:30:21.35,0:30:23.35,Default,,0000,0000,0000,,{\pos(312,497)}この間まで寝込んでいて{\fscx50}➡️
+Dialogue: 0,0:30:23.35,0:30:25.36,Default,,0000,0000,0000,,{\pos(392,407)}大変だったでしょう？
+Dialogue: 0,0:30:23.35,0:30:25.36,Default,,0000,0000,0000,,{\pos(172,497)\c&H0000FFFF}えっ？
+Dialogue: 0,0:30:25.36,0:30:27.13,Default,,0000,0000,0000,,{\pos(272,437)}いい気分転換になると
+Dialogue: 0,0:30:25.36,0:30:27.13,Default,,0000,0000,0000,,{\pos(332,497)}いいんだけど{\fscx50}。
