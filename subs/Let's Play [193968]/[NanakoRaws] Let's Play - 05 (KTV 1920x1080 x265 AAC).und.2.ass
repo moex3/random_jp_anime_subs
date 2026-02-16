@@ -1,0 +1,24 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+ScaledBorderAndShadow: Yes
+PlayResX: 960
+PlayResY: 540
+LayoutResX: 960
+LayoutResY: 540
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Yu Gothic,46,&H00FFFFFF,&H000000FF,&H00000000,&H7F000000,1,0,0,0,100,100,4,0,1,2,2,1,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.94,0:00:04.00,Default,,0000,0000,0000,,{\pos(282,443)\c&H0000FFFF\fscx50\fscy50}ながさわ
+Dialogue: 0,0:00:01.94,0:00:04.00,Default,,0000,0000,0000,,{\pos(262,497)\c&H0000FFFF\fscx50}（{\fscx100}長澤{\fscx50}）{\fscx100}んっは！はふ{\fscx50}っ{\fscx100}！
+Dialogue: 0,0:00:05.17,0:00:07.24,Default,,0000,0000,0000,,{\pos(282,467)\c&H0000FFFF}≪冷たっ！{\fscx50}　{\fscx100}熱っ！≫
+Dialogue: 0,0:00:12.15,0:00:14.21,Default,,0000,0000,0000,,{\pos(322,437)\c&H0000FFFF}あ～
+Dialogue: 0,0:00:12.15,0:00:14.21,Default,,0000,0000,0000,,{\pos(322,497)\c&H0000FFFF}≪キンッキン！≫
+Dialogue: 0,0:00:22.32,0:00:24.36,Default,,0000,0000,0000,,{\pos(402,497)\c&H0000FFFF}あぁ～！
+Dialogue: 0,0:00:24.36,0:00:26.39,Default,,0000,0000,0000,,{\pos(162,497)\c&H0000FFFF}＜やっぱり{\fscx50}　{\fscx100}このキンキンがいい＞
+Dialogue: 0,0:00:26.39,0:00:29.06,Default,,0000,0000,0000,,{\pos(222,437)\c&H0000FFFF}＜{\fscx50}「{\fscx100}アサヒスーパードライ{\fscx50}」{\fscx100}＞
+Dialogue: 0,0:00:26.39,0:00:29.06,Default,,0000,0000,0000,,{\pos(222,497)\c&H0000FF00\fscx50}（{\fscx100}友人{\fscx50}）{\fscx100}⚟聞いてる？
